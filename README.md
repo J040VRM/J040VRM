@@ -60,5 +60,4 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=120&section=footer"/>
-
 </div>
