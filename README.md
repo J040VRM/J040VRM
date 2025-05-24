@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=200&section=header&text=João%Miranda&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Developer%20in%20Training%20|%20Computer%20Science%20Student%20@Mackenzie&descAlignY=50&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:6C5B7B&height=200&section=header&text=João%Miranda&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Developer%20in%20Training%20|%20Computer%20Science%20Student%20@Mackenzie&descAlignY=50&descSize=18">
 
 <p align="center">
   <i>🚀 Passionate about technology and always seeking new knowledge to create innovative solutions.</i>
@@ -59,5 +59,5 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=J040VRM&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:6C5B7B&height=120&section=footer"/>
 </div>
