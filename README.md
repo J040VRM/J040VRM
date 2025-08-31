@@ -24,6 +24,8 @@
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
   <a href="https://www.c-language.org/resources"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+    <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="C"/></a>
+
 
 </div>
 
